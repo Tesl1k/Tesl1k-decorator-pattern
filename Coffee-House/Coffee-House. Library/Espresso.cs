@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 
 namespace Coffee_House.Library
 {
-    public class HouseBlend : Beverage
+    public class Espresso : Beverage
     {
-        public HouseBlend()
+        public Espresso()
         {
-            description = "Хаусбрандт";
-            Price = 2.39;
-
+            description = "Эспрессо";
+            Price = 1.69;
+        }
+        public override string getDescription()
+        {
+            return description;
         }
 
         public override double Cost()

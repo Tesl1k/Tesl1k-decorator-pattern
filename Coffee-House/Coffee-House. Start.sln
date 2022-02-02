@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee-House. Start", "Coffee-House. Start\Coffee-House. Start.csproj", "{2EF9EB2A-880D-40F7-B65F-B2DE7FB43F49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee-House", "Coffee-House. Start\Coffee-House.csproj", "{2EF9EB2A-880D-40F7-B65F-B2DE7FB43F49}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeHouseLibrary", "Coffee-House. Library\CoffeeHouseLibrary.csproj", "{82F525B4-B839-4393-A8C9-8B60F47CF42B}"
 EndProject

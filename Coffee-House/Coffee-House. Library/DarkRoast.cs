@@ -10,8 +10,13 @@ namespace Coffee_House.Library
     {
         public DarkRoast()
         {
-            description = "Кофу темной обжарки";
+            description = "Кофе темной обжарки";
             Price = 1.99;
+        }
+
+        public override string getDescription()
+        {
+            return description;
         }
 
         public override double Cost()
